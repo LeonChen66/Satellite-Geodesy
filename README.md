@@ -1,7 +1,8 @@
 # Satellite Geodesy Courses in NTU
 
 
-### Course Description[1] Introduction   
+### Course Description  
+[1] Introduction   
 [2] Satellite signals and data structure  
 [3] Satellite orbit (Intro. to orbit mechanics)    
 [4] Geodetic reference frames and coordinates transformations   
