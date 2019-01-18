@@ -23,21 +23,21 @@
 – ImageSegmentation  
 – FeatureExtractionandReduction – PatternRecognition  
 – ImageFusion(Pan-sharping)  
-• 5. Image Classification  
+5. Image Classification  
 – SupervisedClassificationTechniques  
 – UnsupervisedClassificationTechniques – ApplicationsofImageClassification  
- 6. Hypersepctral Remote Sensing  
+6. Hypersepctral Remote Sensing  
 – Spectral Analysis  
 – Feature Extraction and Classification  
 – Spectral Unmixing  
 – Application of Hyperspectral Images  
-• 7. LiDAR Data Processing  
+ 7. LiDAR Data Processing  
 – Characteristics of LiDAR Data  
 – Classification  
 – Building Reconstruction  
 – Visualization and Compression of DEM data  
-• 8. Radar Image Processing  
-• 9. Applications of Remote Sensing  
+ 8. Radar Image Processing  
+ 9. Applications of Remote Sensing  
 – Change Detection  
 – Data Mining  
 – Integration of Remote Sensing and Geographic Information Systems (GIS Approach)  
